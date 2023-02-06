@@ -1,5 +1,4 @@
-class Cat
-{
+class Cat{
     private Double originWeight;
     private Double weight;
     
